@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 B.Tech CSE Student (3rd Year)  
-- 💡 Passionate about **Web Development, AI, and Open Source**   
+- 💡 Passionate about **Web Development, AI, and Open Source**  
 - 🌱 Learning **React, Firebase & Three.js**  
 - 🎯 Goal for 2025: Contribute to **major open-source projects**  
 - ⚡ Fun fact: I love building clones of popular apps just for fun 😎  
@@ -22,9 +22,9 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <b>Frontend:</b> HTML, CSS, JavaScript, React, TailwindCSS  
-  <b>Backend:</b> Node.js, Firebase  
-  <b>Tools & Platforms:</b> GitHub, VSCode, Figma, Netlify  
+  <b>Frontend:</b> HTML, CSS, JavaScript, React, TailwindCSS<br/>
+  <b>Backend:</b> Node.js, Firebase<br/>
+  <b>Tools & Platforms:</b> GitHub, VSCode, Figma, Netlify<br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,firebase,github,vscode" />
 </p>
 
