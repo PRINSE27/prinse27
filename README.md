@@ -1,4 +1,4 @@
-<!-- Profile README for procodes27 -->
+<!-- Profile README for prinse27 -->
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <p align="center">
@@ -45,7 +45,7 @@
   <a href="mailto:sukheprince27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/procodes27">
+  <a href="https://github.com/prinse27">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -54,43 +54,43 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/procodes27/procodes27/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/prinse27/prinse27/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=procodes27&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prinse27&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=procodes27&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prinse27&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📂 Featured Projects  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procodes27&repo=the-recipe-box&theme=radical)](https://github.com/procodes27/the-recipe-box)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prinse27&repo=the-recipe-box&theme=radical)](https://github.com/prinse27/the-recipe-box)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procodes27&repo=LeetCode&theme=radical)](https://github.com/procodes27/LeetCode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prinse27&repo=LeetCode&theme=radical)](https://github.com/prinse27/LeetCode)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procodes27&repo=weather-now&theme=radical)](https://github.com/procodes27/weather-now)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prinse27&repo=weather-now&theme=radical)](https://github.com/prinse27/weather-now)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procodes27&repo=todo-app&theme=radical)](https://github.com/procodes27/todo-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prinse27&repo=todo-app&theme=radical)](https://github.com/prinse27/todo-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procodes27&repo=GeeksforGeeks&theme=radical)](https://github.com/procodes27/GeeksforGeeks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prinse27&repo=GeeksforGeeks&theme=radical)](https://github.com/prinse27/GeeksforGeeks)
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=procodes27&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=procodes27&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prinse27&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinse27&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -102,4 +102,4 @@
 
 ---
 
-⭐️ From [procodes27](https://github.com/procodes27)
+⭐️ From [prinse27](https://github.com/prinse27)
